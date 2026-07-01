@@ -1,0 +1,6 @@
+{
+  "name": "Edexcel L2 Percentages Revision",
+  "description": "Interactive Edexcel Level 2 Functional Skills Maths revision on percentages, featuring dynamic formulas, interactive step-by-step builders, decimal multiplier matching, and practice questions with instant working out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
